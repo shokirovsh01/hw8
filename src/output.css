@@ -299,6 +299,9 @@
     font-size: var(--text-xl);
     line-height: var(--tw-leading, var(--text-xl--line-height));
   }
+  .text-black {
+    color: var(--color-black);
+  }
   .text-red-500 {
     color: var(--color-red-500);
   }
