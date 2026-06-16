@@ -181,6 +181,9 @@
   .m-10 {
     margin: calc(var(--spacing) * 10);
   }
+  .m-auto {
+    margin: auto;
+  }
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
   }
